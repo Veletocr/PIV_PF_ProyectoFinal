@@ -3,7 +3,7 @@ USE [master]
 GO
 CREATE DATABASE [PIV_PF_Grupo2]
 
-GO
+G
 
 USE [PIV_PF_Grupo2]
 
